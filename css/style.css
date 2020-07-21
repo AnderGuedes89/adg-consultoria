@@ -50,5 +50,13 @@ textarea.materialize-textarea:focus + label {
 }
 
 .parallax-container {
-	/* height: 380px; */
+	height: 100vh !important;
+}
+
+.section-company,
+.section-services,
+.section-testimony,
+.section-contact {
+	padding-top: 7vh;
+	padding-bottom: 7vh;
 }
